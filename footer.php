@@ -1,0 +1,1 @@
+<?php echo "&copy; " . date("Y") . " Schaller's Pub";?>
